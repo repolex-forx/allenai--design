@@ -1,0 +1,11 @@
+{
+  "org": "allenai",
+  "repo": "design",
+  "versions": [
+    {
+      "commit": "064c76aff180495d7fcd1ce24856c9d1c578bf26",
+      "tag": "v0.4.0",
+      "parsed_at": "2026-11-08T16:18:16.642697+00:00"
+    }
+  ]
+}
