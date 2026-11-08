@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/allenai/design/commit/064c76aff180495d7fcd1ce24856c9d1c578bf26",
       "git:hexsha": "064c76aff180495d7fcd1ce24856c9d1c578bf26",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.4.0"
     },
     {
